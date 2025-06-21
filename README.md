@@ -1,7 +1,7 @@
 # Angular Reactive Form Validation
 
 ### Demo
-> **Demo** ![demo](images/basic-demo.gif)
+![demo](images/basic-demo.gif)
 
 ### Build
 
